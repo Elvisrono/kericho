@@ -38,10 +38,6 @@ I'm Elvis Rono a Full Stack Web Developer. I Spend most of time coding outstandi
 <br />
 <br />
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: elvisrono90@gmail.com
-
 
 <details>
 <summary>
